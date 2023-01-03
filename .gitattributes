@@ -1,3 +1,3 @@
 #Add this to the .gitattributes
-relative/path/to_file/secretfile.yaml filter=git-crypt diff=git-crypt
-another/path/anothersecretfile.yaml filter=git-crypt diff=git-crypt
+/home/kochmaxim/test-repository/file.txt filter=git-crypt diff=git-crypt
+/home/kochmaxim/test-repository/second-file.txt filter=git-crypt diff=git-crypt
